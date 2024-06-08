@@ -1,4 +1,7 @@
 ```python
+
+pip install python-Levenshtein
+
 import pandas as pd
 import Levenshtein
 import requests
